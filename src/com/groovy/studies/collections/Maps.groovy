@@ -1,4 +1,4 @@
-package com.groovy.studies.collections.examples
+package com.groovy.studies.collections
 
 def map = [:]
 

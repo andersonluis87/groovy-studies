@@ -1,4 +1,4 @@
-package com.groovy.studies.collections.examples
+package com.groovy.studies.collections
 
 final listBase = [1,2,3,4,5,6,7,8,9]
 
