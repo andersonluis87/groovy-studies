@@ -1,7 +1,7 @@
 # Groovy Studies
 
 Welcome to my personal Groovy Studies repository! 
-This repository dedicated to my exploration of the powerful and dynamic Groovy programming language. 
+This repository is dedicated to my exploration of the powerful and dynamic Groovy programming language. 
 
 ## What is Groovy?
 Groovy is a versatile and expressive programming language that runs on the Java Virtual Machine (JVM). It combines the best features of Java with additional enhancements, making it an excellent choice for developing applications, scripting, and automating tasks. With its concise syntax, seamless integration with existing Java libraries, and support for functional programming paradigms, Groovy empowers developers to write elegant and efficient code.
