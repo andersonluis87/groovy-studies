@@ -19,7 +19,7 @@ To get started with my Groovy Studies, follow these steps:
 2. Download and install the latest version of Groovy from the official website or via package manager.
 3. Clone this repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/your-username/groovy-studies.git
+    git clone https://github.com/andersonluis87/groovy-studies.git
     ```
     
 4. Navigate to the repository's directory:
